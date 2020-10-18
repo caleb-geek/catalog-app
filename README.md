@@ -4,7 +4,7 @@
  First install nodejs on your environment
  You also need to have git installed
 
-1. Open your terminal in your preferred folder
+1. Open your terminal/cmd in your preferred folder
 2. You then run the command "git clone https://github.com/caleb-geek/catalog-app.git" to download the project
 3. Open the catalog-app folder in your project and run the command "npm install".This will install all the project dependencies.
 
